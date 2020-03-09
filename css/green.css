@@ -1,0 +1,16 @@
+body{
+	background: url("../img/hojas.jpg");
+	background-attachment: fixed;
+}
+
+#logo{
+	background: #235E3D;
+}
+
+#menu ul li:hover{/* cada vez que pasamos con el mouse por encima de algun elemento de la lista */
+	background: #235E3D;
+}
+
+.button-more{
+	background: #235E3D;
+}

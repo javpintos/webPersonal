@@ -1,0 +1,16 @@
+body{
+	background: url("../img/rojo.jpg");
+	background-attachment: fixed;
+}
+
+#logo{
+	background: #CA3413;
+}
+
+#menu ul li:hover{/* cada vez que pasamos con el mouse por encima de algun elemento de la lista */
+	background: #CA3413;
+}
+
+.button-more{
+	background: #CA3413;
+}
