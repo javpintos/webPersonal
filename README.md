@@ -9,3 +9,4 @@ Utiliza:
 - fomulario de contacto
 - validacion del mismo on JS
 - El contenido de los post se carga desde un JSON
+https://javpintos.github.io/webPersonal/index.html
